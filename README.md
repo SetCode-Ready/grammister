@@ -86,3 +86,16 @@ principais plataformas de música gerando interação entre os usuários de gost
 <p>
    Link não adicionado devido às chaves de acesso necessárias para deploy presentes no repositório.
 </p>
+
+
+<h2>Conteúdos Interdiciplinares:</h2>
+
+<h3>Análise e Projeto de Sistemas:</h3>
+<p>...</p>
+<h3>Engenharia de Software III:</h3>
+<p>...</p>
+<h3>Programação para Internet II:</h3>
+<p>...</p>
+<h3>Redes de Computadores:</h3>
+<p>...</p>
+
