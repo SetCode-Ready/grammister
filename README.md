@@ -62,7 +62,7 @@ principais plataformas de música gerando interação entre os usuários de gost
 
 <h2>Protótipo:</h2>
 
-<a href="https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="32" height="32"></a>
+<a href="https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="60" height="60"></a>
 
 <h2>Product Backlog:</h2>
 
