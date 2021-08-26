@@ -91,11 +91,11 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h2>Conteúdos Interdiciplinares:</h2>
 
 <h3>Análise e Projeto de Sistemas:</h3>
-<p>...</p>
+<p>SCRUM e UML</p>
 <h3>Engenharia de Software III:</h3>
-<p>...</p>
+<p>SOLID e CLEAN CODE e CLEAN ARCHITECTURE</p>
 <h3>Programação para Internet II:</h3>
-<p>...</p>
+<p>CONSUMO DE API REST, REACT JS com Typescript</p>
 <h3>Redes de Computadores:</h3>
-<p>...</p>
+<p>Protocolos de Rede na WEB</p>
 
