@@ -2,20 +2,14 @@
 
 <h2>Área:</h2>
 
-<p>Rede social</p>
+<p>Rede Social</p>
 
-<h2>O problema:</h2>
-
+<h2>Proposta:</h2>
 <p>
-Muitas instituições ainda contam com um sistema de gerenciamento escolar desatualizado em termos de boa experiência e usabilidade para os alunos e professores. 
+GRAMMISTER é uma rede social para os amantes da música, com a sofisticação de um visual moderno,
+aliando organização e praticidade, utiliza informações do usuário sobre seus gostos musicais se conectando as
+principais plataformas de música gerando interação entre os usuários de gostos semelhantes.
 </p>
-
-<h2>A solução:</h2>
-
-<p>
-Tendo isso em vista, o Owl Academy será um novo software para gerenciamento escolar totalmente intuitivo e otimizado, utilizando o que há de mais moderno na tecnologia. 
-</p>
-
 <h2>Membros:</h2>
 <table>
 <thead>
