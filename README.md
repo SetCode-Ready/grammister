@@ -62,10 +62,7 @@ principais plataformas de música gerando interação entre os usuários de gost
 
 <h2>Protótipo:</h2>
 
-<p>
- Para prototipação de telas e logotipo da aplicação, optamos pela ferramenta chamada Figma.
- Aqui está o link para acompanhar o progresso de esquematização das telas e funcionalidades: https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2
-</p>
+<a href="https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="32" height="32"></a>
 
 <h2>Product Backlog:</h2>
 
