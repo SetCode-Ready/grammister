@@ -70,6 +70,8 @@ principais plataformas de música gerando interação entre os usuários de gost
   Documento de requisitos, product backlog, estórias de usuário e planejamento das sprints: 
 </p>
 
+<br>
+<br>
 <a href="https://drive.google.com/drive/folders/1OXLWQ9bAqSNysKEEyOG2rk1LQX9rQnLU?usp=sharing" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="DRIVE LINK" width="48" height="42"></a>
 
 <h2>Front-end:</h2>
