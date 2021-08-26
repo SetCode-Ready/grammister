@@ -79,7 +79,7 @@ principais plataformas de música gerando interação entre os usuários de gost
    Link para o repositório do front-end da aplicação: 
 </p>
 
-<a href="https://github.com/SetCode-Ready/grammister-ui" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="48" height="42"></a>
+<a href="https://github.com/SetCode-Ready/grammister-ui" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="48" height="42"></a>
 
 <h2>Back-end:</h2>
 
