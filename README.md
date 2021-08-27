@@ -95,7 +95,7 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h3>Engenharia de Software III:</h3>
 <p>SOLID e CLEAN CODE e CLEAN ARCHITECTURE</p>
 <h3>Programação para Internet II:</h3>
-<p>CONSUMO DE API REST, REACT JS com Typescript</p>
+<p>CONSUMO DE API GraphQL com EXPRESS, REACT JS com Typescript</p>
 <h3>Redes de Computadores:</h3>
 <p>Protocolos de Rede na WEB</p>
 
