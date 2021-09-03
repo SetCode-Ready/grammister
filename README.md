@@ -84,7 +84,7 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h2>Back-end:</h2>
 
 <p>
-   Link não adicionado devido às chaves de acesso necessárias para deploy presentes no repositório.
+  <a href="https://github.com/SetCode-Ready/grammister-api" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="60" height="60"></a>
 </p>
 
 
