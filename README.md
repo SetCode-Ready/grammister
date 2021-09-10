@@ -60,6 +60,16 @@ principais plataformas de música gerando interação entre os usuários de gost
 </tbody>
 </table>
 
+<h2>Funcionalidades:</h2>
+<p>1. FEED de Posts para visualização de conteudos de páginas que o usuário acompanha além de posts e atualizações de seus amigos</p>
+<p>2. Últimas Noticias do Mundo da Música</p>
+<p>3. Música do Momento</p>
+<p>4. Chart Week</p>
+<p>5. Chats</p>
+<p>6. Reproduções Recentes</p>
+<p>7. Detalhes do Post e Interações</p>
+ 
+
 <h2>Protótipo:</h2>
 
 <a href="https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="60" height="60"></a>
