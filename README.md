@@ -72,13 +72,16 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h2>Sprints:</h2>
 <h3>Deadline 1:</h3>
 <p>
-Backend - CRUD do usuário, Login, CRUD do Post, Implementação dos comentários, Implementação dos Likes, integrar API de notícias.
-
-Frontend - Login Page, Register Page, Feed Page, Recovery Password Page, Painel do Topo da Página (Design e Implementação), remover scroll do feed e notícias, ajustar as cores das letras (#f2f2f2), ajustar a altura do botão de notícias, detalhes do post.
+  Backend - CRUD do usuário, Login, CRUD do Post, Implementação dos comentários, Implementação dos Likes, integrar API de notícias.
+</p>
+<p>
+  Frontend - Login Page, Register Page, Feed Page, Recovery Password Page, Painel do Topo da Página (Design e Implementação), remover scroll do feed e notícias, ajustar as cores das letras (#f2f2f2), ajustar a altura do botão de notícias, detalhes do post.
 </p>
 <h3>Deadline 2:</h3>
 <p>
   Backend - Chat, integração com o google, integração com spotify.
+</p>
+<p>
   Frontend - Scroll infinito, Chat, Chart Week.
 </p>
 
