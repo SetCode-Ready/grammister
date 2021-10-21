@@ -89,7 +89,6 @@ principais plataformas de música gerando interação entre os usuários de gost
   <li>Login Page</li>
   <li>Register Page</li>
   <li>Feed Page</li>
-  <li>Painel do Topo da Página (Design e Implementação)</li>
   <li>remover scroll do feed e notícias</li>
   <li>ajustar as cores das letras (#f2f2f2)</li>
   <li>ajustar a altura do botão de notícias</li>
