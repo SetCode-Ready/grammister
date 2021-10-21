@@ -71,19 +71,47 @@ principais plataformas de música gerando interação entre os usuários de gost
  
 <h2>Sprints:</h2>
 <h3>Deadline 1:</h3>
-<p>
-  Backend - CRUD do usuário, Login, CRUD do Post, Implementação dos comentários, Implementação dos Likes, integrar API de notícias.
-</p>
-<p>
-  Frontend - Login Page, Register Page, Feed Page, Recovery Password Page, Painel do Topo da Página (Design e Implementação), remover scroll do feed e notícias, ajustar as cores das letras (#f2f2f2), ajustar a altura do botão de notícias, detalhes do post.
-</p>
+<h3>
+  Backend
+</h3>
+<ul>
+  <li>CRUD do usuário</li>
+  <li>Login</li>
+  <li>CRUD do Post</li>
+  <li>Implementação dos comentários</li>
+  <li>Implementação dos Likes</li>
+  <li>integrar API de notícias</li>
+</ul>
+<h3>
+  Frontend
+</h3>
+<ul>
+  <li>Login Page</li>
+  <li>Register Page</li>
+  <li>Feed Page</li>
+  <li>Painel do Topo da Página (Design e Implementação)</li>
+  <li>remover scroll do feed e notícias</li>
+  <li>ajustar as cores das letras (#f2f2f2)</li>
+  <li>ajustar a altura do botão de notícias</li>
+  <li>detalhes do post</li>
+</ul>
 <h3>Deadline 2:</h3>
-<p>
-  Backend - Chat, integração com o google, integração com spotify.
-</p>
-<p>
-  Frontend - Scroll infinito, Chat, Chart Week.
-</p>
+<h3>
+  Backend
+</h3>
+<ul>
+  <li>Chat</li>
+  <li>integração com o Google</li>
+  <li>integração com spotify ou outro Streaming de Música</li>
+</ul>
+<h3>
+  Frontend
+</h3>
+<ul>
+  <li>Scroll infinito</li>
+  <li>Chat</li>
+  <li>Chart Week</li>
+</ul>
 
 
 
