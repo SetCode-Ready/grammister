@@ -99,17 +99,20 @@ principais plataformas de música gerando interação entre os usuários de gost
   Backend
 </h3>
 <ul>
-  <li>Chat</li>
-  <li>integração com o Google</li>
-  <li>integração com spotify ou outro Streaming de Música</li>
+  <li>Conexão com outros usuários</li>
+  <li>Upload de Imagem</li>
+  <li>Search</li>
+  <li>Recovery Password</li>
+  <li>Música do Momento (LastFM)</li>
 </ul>
 <h3>
   Frontend
 </h3>
 <ul>
-  <li>Scroll infinito</li>
-  <li>Chat</li>
-  <li>Chart Week</li>
+  <li>HEADER com Search</li>
+  <li>Tela de Perfil de Usuário</li>
+  <li>Tela de Perfil dos Amigos</li>
+  <li>Tela de Recuperação de Senha</li>
 </ul>
 
 
