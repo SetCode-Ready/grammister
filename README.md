@@ -100,7 +100,6 @@ principais plataformas de música gerando interação entre os usuários de gost
 </h3>
 <ul>
   <li>Conexão com outros usuários</li>
-  <li>Upload de Imagem</li>
   <li>Search</li>
   <li>Recovery Password</li>
   <li>Música do Momento (LastFM)</li>
