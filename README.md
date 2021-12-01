@@ -124,7 +124,7 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h2>Product Backlog:</h2>
 
 <p>
-  Documentos de requisitos, product backlog, estórias de usuário e planejamento das sprints: 
+  Documentos do Produto: 
 </p>
 
 <br>
@@ -148,9 +148,9 @@ principais plataformas de música gerando interação entre os usuários de gost
 <h2>Conteúdos Interdiciplinares:</h2>
 
 <h3>Análise e Projeto de Sistemas:</h3>
-<p>SCRUM e UML</p>
+<p>SCRUM</p>
 <h3>Engenharia de Software III:</h3>
-<p>SOLID e CLEAN CODE e CLEAN ARCHITECTURE</p>
+<p>SOLID, CLEAN CODE e CLEAN ARCHITECTURE</p>
 <h3>Programação para Internet II:</h3>
 <p>CONSUMO DE API GraphQL com EXPRESS, REACT JS com Typescript</p>
 <h3>Redes de Computadores:</h3>
