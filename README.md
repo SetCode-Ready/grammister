@@ -22,37 +22,37 @@ principais plataformas de música gerando interação entre os usuários de gost
 </thead>
 <tbody>
   <tr>
-    <td>Introdução a admnistração<br></td>
+    <td>Interação Humano-Computador<br></td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Redes de Computadores</td>
+    <td>Programação para Dispositivos Móveis</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Engenharia de Software III</td>
+    <td>Engenharia de Software IV</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Análise e Projeto de Sistemas</td>
+    <td>Tópicos Especiais de Programação</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Projeto Integrador II</td>
+    <td>Projeto Integrador III</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Programação para Internet II</td>
+    <td>Elaboração de Projeto de Pesquisa</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -64,94 +64,33 @@ principais plataformas de música gerando interação entre os usuários de gost
 <p>1. FEED de Posts para visualização de conteudos de páginas que o usuário acompanha além de posts e atualizações de seus amigos</p>
 <p>2. Últimas Noticias do Mundo da Música</p>
 <p>3. Música do Momento</p>
-<p>4. Chart Week</p>
-<p>5. Chats</p>
-<p>6. Reproduções Recentes</p>
 <p>7. Detalhes do Post e Interações</p>
  
-<h2>Sprints:</h2>
-<h3>Deadline 1:</h3>
-<h3>
-  Backend
-</h3>
-<ul>
-  <li>CRUD do usuário</li>
-  <li>Login</li>
-  <li>CRUD do Post</li>
-  <li>Implementação dos comentários</li>
-  <li>Implementação dos Likes</li>
-  <li>integrar API de notícias</li>
-</ul>
-<h3>
-  Frontend
-</h3>
-<ul>
-  <li>Login Page</li>
-  <li>Register Page</li>
-  <li>Feed Page</li>
-  <li>remover scroll do feed e notícias</li>
-  <li>ajustar as cores das letras (#f2f2f2)</li>
-  <li>ajustar a altura do botão de notícias</li>
-  <li>detalhes do post</li>
-</ul>
-<h3>Deadline 2:</h3>
-<h3>
-  Backend
-</h3>
-<ul>
-  <li>Conexão com outros usuários</li>
-  <li>Search</li>
-  <li>Recovery Password</li>
-  <li>Música do Momento (LastFM)</li>
-</ul>
-<h3>
-  Frontend
-</h3>
-<ul>
-  <li>HEADER com Search</li>
-  <li>Tela de Perfil de Usuário</li>
-  <li>Tela de Perfil dos Amigos</li>
-  <li>Tela de Recuperação de Senha</li>
-</ul>
-
-
-
 <h2>Protótipo:</h2>
 
-<a href="https://www.figma.com/file/cnIHwo6wrFMJOcek5u9n64/Grammister?node-id=212%3A2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="60" height="60"></a>
+<a href="https://www.figma.com/proto/cnIHwo6wrFMJOcek5u9n64/Grammister?page-id=0%3A1&node-id=818%3A34&viewport=501%2C48%2C0.32&scaling=scale-down&starting-point-node-id=818%3A2&show-proto-sidebar=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA LINK" width="60" height="60"></a>
 
-<h2>Product Backlog:</h2>
-
-<p>
-  Documentos do Produto: 
-</p>
-
-<br>
-<a href="https://drive.google.com/drive/folders/1OXLWQ9bAqSNysKEEyOG2rk1LQX9rQnLU?usp=sharing" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="DRIVE LINK" width="48" height="43"></a>
-
-<h2>Front-end:</h2>
+<h2>Projeto Flutter:</h2>
 
 <p>
-   Link para o repositório do front-end da aplicação: 
+   Link para o repositório do projeto da aplicação: 
 </p>
 <br>
-<a href="https://github.com/SetCode-Ready/grammister-ui" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="60" height="60"></a>
+<a href="https://github.com/SetCode-Ready/grammister-mobile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="60" height="60">
+</a>
 
 <h2>Back-end:</h2>
 
 <p>
-  <a href="https://github.com/SetCode-Ready/grammister-api" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="60" height="60"></a>
+  Link para o repositório do projeto de API: 
 </p>
 
+<a href="https://github.com/SetCode-Ready/grammister-api" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GITHUB LINK" width="60" height="60">
+</a>
 
 <h2>Conteúdos Interdiciplinares:</h2>
 
-<h3>Análise e Projeto de Sistemas:</h3>
-<p>SCRUM</p>
-<h3>Engenharia de Software III:</h3>
-<p>SOLID, CLEAN CODE e CLEAN ARCHITECTURE</p>
-<h3>Programação para Internet II:</h3>
-<p>CONSUMO DE API GraphQL com EXPRESS, REACT JS com Typescript</p>
-<h3>Redes de Computadores:</h3>
-<p>Protocolos de Rede na WEB</p>
-
+<h3>GIT e GITHUB (Controle de Versões) - Engenharia de Software IV</h3>
+<h3>SCRUM - Engenharia de Software II</h3>
+<h3>Desenvolvimento Mobile com Flutter - Programação para Dispositivos Móveis</h3>
+<h3>Desenvolvimento de Interface agradável ao usuário seguindo parâmetros de construção - Interação Humano-Computador</h3>
