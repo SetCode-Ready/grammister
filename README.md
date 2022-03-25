@@ -92,4 +92,4 @@ principais plataformas de música gerando interação entre os usuários de gost
 
 <h3>GIT e GITHUB (Controle de Versões) - Engenharia de Software IV</h3>
 <h3>Desenvolvimento Mobile com Flutter - Programação para Dispositivos Móveis</h3>
-<h3>Desenvolvimento de Interface agradável ao usuário seguindo parâmetros de construção - Interação Humano-Computador</h3>
+<h3>Desenvolvimento de um sistema agradável ao usuário seguindo parâmetros de construção - Interação Humano-Computador</h3>
